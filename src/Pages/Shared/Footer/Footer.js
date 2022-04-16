@@ -6,7 +6,7 @@ const Footer = () => {
     const today = new Date();
     const year = today.getFullYear();
     return (
-        <footer className='text-center bg-dark text-white mt-5 py-4 position-fixed bottom-0 w-100'>
+        <footer className='text-center bg-dark text-white py-4'>
             <p className='m-0'><small>Copyright &copy; {year} <Link className='text-decoration-none text-danger fw-bold' to={"home"}>Luvfit</Link> All Rights Reserved</small></p>
         </footer >
     );
