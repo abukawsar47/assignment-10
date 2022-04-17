@@ -7,7 +7,17 @@ A fitness instructor's service website.
 
 
 ### Website Description
-* A project of independent service provider website with authentication.
+In today’s extremely competitive creative market, you need an excellent website to be different from others, and you can build one with Luvfit. Template for GYM Trainers website. 
+
+* Elegant & clean Home page.
+* Responsive and sticky navbar.
+* General-purpose pages like about us, services, and many more.
+* Bootstrap 5 Framework, React library, etc have been used.
+* Many components and widgets have been added.
+* Valid JSX & CSS3.
+* Easy to use and well-commented Code as well as reusable code.
+* Extensive Documentation.
+*  
 
 
 ### `npm test`
