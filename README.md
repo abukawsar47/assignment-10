@@ -1,10 +1,10 @@
-# Getting Started with Create React App
+# Luvfit
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A fitness instructor's service website.
 
-## Available Scripts
+## Live link- https://assignment-10-abu-47.netlify.app/
 
-In the project directory, you can run:
+
 
 ### `npm start`
 
