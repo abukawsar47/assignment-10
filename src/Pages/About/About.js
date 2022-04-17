@@ -18,7 +18,7 @@ const About = () => {
                         <p>
                             Recently I have completed Html5, Css3, Javascript, Bootstrap, Jquery, React JS, Next JS, Node JS, Express JS, and Mongo DB react and node js from Programming Hero.
                         </p>
-                        <p> I want to be a reasonable junior developer this year</p>
+                        <p> I want to be a best junior developer this year</p>
                         <button className="btn btn-danger" target="_blank" to=''>DOWNLOAD RESUME</button>
                     </div>
                 </div>

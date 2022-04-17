@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import google from '../../../images/social/google.png';
 import { useSignInWithGoogle } from 'react-firebase-hooks/auth';
 import auth from '../../../firebase.init';
@@ -13,12 +13,14 @@ const SocialLogin = () => {
 
 
     if (error || error) {
-        errorElement = <p className='text-danger'>Error: {error?.message}</p>
+        errorElement = <p className='text-danger'> {error?.message}</p>
     }
 
-    if (user || user) {
-        navigate('/home');
-    }
+    useEffect(() => {
+        if (user || user) {
+            navigate('/home');
+        }
+    }, [user])
 
     return (
         <div>

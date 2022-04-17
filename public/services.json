@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "GRIT STRENGTH",
+        "price": "300",
+        "description": "We have a heap of fun pieces of equipment to build down every inch of your body",
+        "img": "https://i.ibb.co/NZqmGjN/classes-item-1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "ZUMBA ATHLETIC",
+        "price": "300",
+        "description": "We have a heap of fun pieces of equipment to build down every inch of your body",
+        "img": "https://i.ibb.co/LPNydj2/classes-item-2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "FUSION YOGA",
+        "price": "300",
+        "description": "We have a heap of fun pieces of equipment to build down every inch of your body",
+        "img": "https://i.ibb.co/pJ6jvJR/classes-item-3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "MEDITATION",
+        "price": "300",
+        "description": "We have a heap of fun pieces of equipment to build down every inch of your body",
+        "img": "https://i.ibb.co/kgJTTyX/classes-item-5.jpg"
+    },
+    {
+        "id": 5,
+        "name": "CLIMBING INDUCTION",
+        "price": "300",
+        "description": "We have a heap of fun pieces of equipment to build down every inch of your body",
+        "img": "https://i.ibb.co/djx2pXx/classes-item-6.jpg"
+    },
+    {
+        "id": 6,
+        "name": "PUNCH BOXING",
+        "price": "300",
+        "description": "We have a heap of fun pieces of equipment to build down every inch of your body",
+        "img": "https://i.ibb.co/0DJ79FX/classes-item-4.jpg"
+    }
+]
