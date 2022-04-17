@@ -2,9 +2,9 @@
 
 A fitness instructor's service website.
 
-## Live link- https://assignment-10-abu-47.netlify.app/
+## Live link (Netlify) - https://assignment-10-abu-47.netlify.app/
 
-
+## Live link (Firebase) - https://assignment-10-ak47.web.app/
 
 ### Website Description
 In today’s extremely competitive creative market, you need an excellent website to be different from others, and you can build one with Luvfit. Template for GYM Trainers website. 
