@@ -10,6 +10,7 @@ import './Login.css'
 import Loading from '../../Shared/Loading/Loading';
 
 const Login = () => {
+    const [users, setUsers] = useState();
     const emailRef = useRef('');
     const passwordRef = useRef('');
     const navigate = useNavigate();
@@ -26,13 +27,16 @@ const Login = () => {
 
     const [sendPasswordResetEmail, sending] = useSendPasswordResetEmail(auth);
 
+    useEffect(() => {
+        if (user) {
+            navigate(from, { replace: true });
+        }
+    }, [user])
+
     if (loading || sending) {
         return <Loading></Loading>
     }
 
-    if (user) {
-        navigate(from, { replace: true });
-    }
 
     if (error) {
         errorElement = <p className='text-danger'>Error: {error?.message}</p>
