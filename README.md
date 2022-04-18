@@ -18,8 +18,6 @@ In today’s extremely competitive creative market, you need an excellent websit
 * Easy to use and well-commented Code as well as reusable code.
 * Extensive Documentation.
 
-
-
 ### NOTES
 
 * This is a pure React template, not a WordPress or any other CMS theme.
